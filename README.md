@@ -69,7 +69,7 @@ I'm a software developer and technology leader focused on building practical, sc
 
 | Period | Role | Organization | Focus |
 |:--|:--|:--|:--|
-| **Jan 2020 – Present** | **Managing Director & CTO** | **Metasoft Info** | Full-stack software architecture, backend engineering (Laravel, PHP, Node.js & NestJS), ERP and business automation, REST API development, database design, DevOps, technical strategy and team leadership. |
+| **Jan 2020 – Present** | **Managing Director & CTO** | **Metasoft Info Solutions** | Full-stack software architecture, backend engineering (Laravel, PHP, Node.js & NestJS), ERP and business automation, REST API development, database design, DevOps, technical strategy and team leadership. |
 | **Sep 2019 – Dec 2019** | **Web Developer** | **Sanaz Corporation** | Laravel/PHP/MySQL development and product feature planning. |
 
 ## 🎓 Education & Professional Development
