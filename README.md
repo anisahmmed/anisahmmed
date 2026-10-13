@@ -96,9 +96,13 @@ I'm a software developer and technology leader focused on building practical, sc
 
 > Some client projects are private and are not available as public repositories.
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anisahmmed&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=70A5FD&currStreakNum=BB9AF7&sideNums=70A5FD&sideLabels=70A5FD&dates=38BDAE" alt="GitHub contribution streak statistics" width="75%" />
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=anisahmmed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisahmmed&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" height="165" />
