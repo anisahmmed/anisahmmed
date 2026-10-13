@@ -28,7 +28,7 @@ name: Anis Ahmmed
 role: Managing Director & CTO
 company: Metasoft Info Solutions
 location: Dhaka, Bangladesh
-education: BSc in Computer Science & Engineering, IUBAT
+education: MSc in CSE, Jahangirnagar University | BSc in CSE, IUBAT
 specialization: Full Stack Web Development
 portfolio: https://anis.metasoftinfo.com/
 ```
@@ -42,30 +42,47 @@ I'm a software developer and technology leader focused on building practical, sc
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+  <tr>
+    <th align="center" width="190">Languages</th>
+    <td><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" /></td>
+  </tr>
+  <tr>
+    <th align="center" width="190">Frontend</th>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=html5" alt="HTML5" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=css3" alt="CSS3" width="48" height="48" /></td>
+  </tr>
+  <tr>
+    <th align="center" width="190">Backend</th>
+    <td><img src="https://skillicons.dev/icons?i=nodedotjs" alt="Node.js" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="48" height="48" /></td>
+  </tr>
+  <tr>
+    <th align="center" width="190">Databases</th>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" /></td>
+  </tr>
+  <tr>
+    <th align="center" width="190">DevOps & Tools</th>
+    <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /></td>
+  </tr>
+</table>
 
-**Languages & Frameworks**
+## 💼 Career Timeline
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+| Period | Role | Organization | Focus |
+|:--|:--|:--|:--|
+| **Jan 2020 – Present** | **Managing Director & CTO** | **Metasoft Info** | Technical leadership, Laravel/MySQL development, client requirements and business strategy. |
+| **Sep 2019 – Dec 2019** | **Web Developer** | **Sanaz Corporation** | Laravel/PHP/MySQL development and product feature planning. |
 
-**Databases, Tools & Infrastructure**
+## 🎓 Education & Professional Development
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+| Period | Qualification | Institution |
+|:--|:--|:--|
+| **Mar 2025 – Jun 2025** | **Advanced Certificate for Management Professionals (ACMP 4.0)** | **University of Dhaka** |
+| **Sep 2022 – Dec 2023** | **M.Sc in Computer Science and Engineering** | **Jahangirnagar University** |
+| **2016 – 2019** | **Bachelor of Computer Science and Engineering** | **IUBAT** |
+| **2013 – 2015** | **HSC (Science)** | **Milestone College** |
+| **2011 – 2013** | **SSC (Science)** | **Dhanua High School** |
 
-</div>
+---
 
 ## 🚀 What I Build
 
