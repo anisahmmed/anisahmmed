@@ -79,8 +79,6 @@ I'm a software developer and technology leader focused on building practical, sc
 | **Mar 2025 – Jun 2025** | **Advanced Certificate for Management Professionals (ACMP 4.0)** | **University of Dhaka** |
 | **Sep 2022 – Dec 2023** | **M.Sc in Computer Science and Engineering** | **Jahangirnagar University** |
 | **2016 – 2019** | **Bachelor of Computer Science and Engineering** | **IUBAT** |
-| **2013 – 2015** | **HSC (Science)** | **Milestone College** |
-| **2011 – 2013** | **SSC (Science)** | **Dhanua High School** |
 
 ---
 
