@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Managing+Director+%26+CTO;Full+Stack+Software+Developer;Building+Scalable+Digital+Solutions)](https://git.io/typing-svg)
 
-![Role](https://img.shields.io/badge/ROLE-Managing%20Partner%20%26%20CTO-00CFE8?style=for-the-badge)
+![Role](https://img.shields.io/badge/ROLE-Managing%20Director%20%26%20CTO-00CFE8?style=for-the-badge)
 ![Company](https://img.shields.io/badge/COMPANY-Metasoft%20Info%20Solutions-7C3AED?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-FF006E?style=for-the-badge)
 
