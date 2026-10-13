@@ -8,7 +8,7 @@
 
 ![Role](https://img.shields.io/badge/ROLE-Managing%20Director%20%26%20CTO-00CFE8?style=for-the-badge)
 ![Company](https://img.shields.io/badge/COMPANY-Metasoft%20Info%20Solutions-7C3AED?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-FF006E?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-Software%20Architecture%20%26%20Full%20Stack%20Engineering-FF006E?style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anis.metasoftinfo.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisahmmed/)
@@ -33,7 +33,7 @@ specialization: Full Stack Web Development
 portfolio: https://anis.metasoftinfo.com/
 ```
 
-I'm a software developer and technology leader focused on building practical, scalable web applications. At **Metasoft Info Solutions**, I work on delivering business-focused software solutions, from architecture and backend development to deployment and ongoing improvement.
+I'm a software developer and technology leader focused on building practical, scalable web applications. As **Managing Director & CTO at Metasoft Info Solutions**, I lead technical strategy and deliver business-focused software solutions across full-stack architecture, backend systems, database design, deployment and continuous improvement.
 
 - 🚀 Building **ERP, POS, eCommerce and management systems**
 - 🧩 Working with **Laravel, PHP, Node.js, NestJS and modern web technologies**
@@ -69,7 +69,7 @@ I'm a software developer and technology leader focused on building practical, sc
 
 | Period | Role | Organization | Focus |
 |:--|:--|:--|:--|
-| **Jan 2020 – Present** | **Managing Director & CTO** | **Metasoft Info** | Technical leadership, Laravel/MySQL development, client requirements and business strategy. |
+| **Jan 2020 – Present** | **Managing Director & CTO** | **Metasoft Info** | Full-stack software architecture, backend engineering (Laravel, PHP, Node.js & NestJS), ERP and business automation, REST API development, database design, DevOps, technical strategy and team leadership. |
 | **Sep 2019 – Dec 2019** | **Web Developer** | **Sanaz Corporation** | Laravel/PHP/MySQL development and product feature planning. |
 
 ## 🎓 Education & Professional Development
